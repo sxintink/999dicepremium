@@ -31,7 +31,7 @@ pip3 install requests
 pip3 install bs4
 ```
 ```
-git clone https://github.com/MonkeyD-Core/999
+git clone https://github.com/Channel-Gratisan/999dicepremium
 ```
 ```
 cd 999
